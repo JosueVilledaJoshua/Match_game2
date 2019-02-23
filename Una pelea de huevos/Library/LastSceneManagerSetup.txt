@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Una pelea de huevos.unity
+  isLoaded: 1
+  isActive: 1
